@@ -1,0 +1,36 @@
+
+
+
+body{
+background-image:("https://marketing4ecommerce.net/wp-content/uploads/2018/10/tipos-de-im%C3%A1genes-1280x720.jpg");
+background-size:cover;
+background-color:azure;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+#image{
+    border-color:rgb(199, 194, 238);
+    border-width:5px;
+    border-style:solid;
+    border-radius: 10px;
+    max-width: 800px;
+    image-orientation: center;
+}
+#Viviendas{
+    width:100%
+        
+}
+#plano{
+    border-color:black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    max-width: 400px;
+
+}
+.p{
+    text-size-adjust: justify;
+    margin-left: 15px;
+    margin-right: 15px;
+}
